@@ -49,11 +49,25 @@ Here are some ideas to get you started:
     <br />
   </samp>
 
-<!-- readme-stats -->
+<!-- GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![SHMinger's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHMinger&theme=github-compact)](https://github.com/SHMinger/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
 [![SHMinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHMinger)](https://github.com/SHMinger/github-readme-stats)
 
+<img src\="https://github-readme-streak-stats.herokuapp.com/?user=SHMinger"\></img\>
 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--   grid-snake -->
+![](https://github.com/SHMinger/SHMinger/blob/output/github-contribution-grid-snake.svg)
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SHMinger" width="auto"></img>
 
 
 ![](assets/Bottom_down.svg)
