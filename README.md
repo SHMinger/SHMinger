@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-![](https://count.getloli.com/get/@SHMinger?theme=rule34)
+![](https://count.getloli.com/get/@SHMinger.github.readme?theme=rule34)
 
 
 <!--   my-ticker -->    
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 | [![SHMinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHMinger)](https://github.com/SHMinger/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHMinger&size_weight=0.5&count_weight=0.5) | 
 
 <!--  generate snack -->
-![:snack](https://raw.githubusercontent.com/SHMinger/SHMinger/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/SHMinger/SHMinger/main/assets/github-contribution-grid-snake.svg)
 
 ![](assets/Bottom_down.svg)
