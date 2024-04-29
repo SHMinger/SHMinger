@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
+
+![:name](https://count.getloli.com/get/@SHMinger?theme=rule34)
+
+
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shuming+Hu;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
 <!--   profile -->  
@@ -56,5 +60,7 @@ Here are some ideas to get you started:
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [![SHMinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHMinger)](https://github.com/SHMinger/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHMinger&size_weight=0.5&count_weight=0.5) | 
 
+<!--  generate snack -->
+![:snack](https://raw.githubusercontent.com/SHMinger/SHMinger/main/assets/github-contribution-grid-snake.svg)
 
 ![](assets/Bottom_down.svg)
